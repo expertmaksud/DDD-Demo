@@ -4,10 +4,13 @@ This is an Asp.Net Core(2.2) Web Api based REST API solution. I architect the ap
 EF code first, Automapper, Dtos etc, utilizing patterns and best practices such as for unit testing and loosely couple always 
 Implement interface.
 
-Domain project contain the entities and aggregator.
-Data project is responsible for database related operation, Generic repository implmentation, contain migration and DBContext.
-Application project contain all Application related business Services.
-API project create api using Asp.Net Web Api controller.
+## Solution Structure
+
+- **Core Project:** Everything common for full solution are written here. 
+- **Domain Project:** Contain the entities and aggregator.
+- **Data Project:** It is responsible for database related operation, Generic repository implmentation, contain migration and DBContext.
+- **Application Project:** Contain all Application related business Services.
+- **API Project:** Create api using Asp.Net Web Api controller.
 
 ## Run Application:
 To run the application Please update connection string from PX.Data/appsettings.json it is use for migration, also update 
