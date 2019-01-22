@@ -1,0 +1,9 @@
+/Users/maksudalam/Projects/PanXPan/PX.Core/bin/Debug/netcoreapp2.2/PX.Core.deps.json
+/Users/maksudalam/Projects/PanXPan/PX.Core/bin/Debug/netcoreapp2.2/PX.Core.dll
+/Users/maksudalam/Projects/PanXPan/PX.Core/bin/Debug/netcoreapp2.2/PX.Core.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.csproj.CoreCompileInputs.cache
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.AssemblyInfoInputs.cache
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.AssemblyInfo.cs
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.dll
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Core/obj/Debug/netcoreapp2.2/PX.Core.csprojAssemblyReference.cache

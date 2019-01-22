@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Book\" />
+    <Folder Include="Book\Dtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Book\IBookAppService.cs" />
+    <Compile Remove="Class1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PX.Core\PX.Core.csproj" />
+    <ProjectReference Include="..\PX.Data\PX.Data.csproj" />
+    <ProjectReference Include="..\PX.Domain\PX.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+</Project>

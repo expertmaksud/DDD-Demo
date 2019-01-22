@@ -1,0 +1,16 @@
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Application.deps.json
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Application.dll
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Application.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Core.dll
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Data.dll
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Domain.dll
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Core.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Data.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Application/bin/Debug/netcoreapp2.2/PX.Domain.pdb
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.csprojAssemblyReference.cache
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.csproj.CoreCompileInputs.cache
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.AssemblyInfoInputs.cache
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.AssemblyInfo.cs
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.csproj.CopyComplete
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.dll
+/Users/maksudalam/Projects/PanXPan/PX.Application/obj/Debug/netcoreapp2.2/PX.Application.pdb

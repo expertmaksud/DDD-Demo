@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{17AE24FE-6736-42EB-A44B-91366A2EAA23}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PX.Api/Controllers/BooksController.cs">
+    <Files>
+      <File FileName="PX.Data/ApplicationDbContext.cs" Line="17" Column="135" />
+      <File FileName="PX.Core/Audit/IFullyAuditedEntity.cs" Line="4" Column="41" />
+      <File FileName="PX.Data/Factory/Repository.cs" Line="24" Column="59" />
+      <File FileName="PX.Application/Book/IBookService.cs" Line="14" Column="21" />
+      <File FileName="PX.Application/Book/BookService.cs" Line="48" Column="62" />
+      <File FileName="PX.Application/Book/Dtos/BookDto.cs" Line="4" Column="18" />
+      <File FileName="PX.Api/Controllers/BooksController.cs" Line="22" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PX.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
