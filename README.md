@@ -16,6 +16,13 @@ Implement interface.
 To run the application Please update connection string from PX.Data/appsettings.json it is use for migration, also update 
 Px.Api/appsettings.json to run the API.
 
+Then navigate to the Px.Data project and run 
+
+```
+dotnet ef database update
+
+```
+
 ## API End Points:
 
 Currently implement the following sample api end points
